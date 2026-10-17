@@ -1,0 +1,6 @@
+{
+  "name": "LandingNest Page Editor",
+  "description": "High-fidelity AI landing page builder with interactive visual editor, live preview canvas, responsive device switching, and smart copilot assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
